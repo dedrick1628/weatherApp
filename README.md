@@ -28,5 +28,5 @@ This Node.js application provides an API for retrieving weather conditions based
 Before running the server, make sure to set the following environment variables:
 
 - `PORT`: The port number on which the server will listen (default is `8000`).
-- `WEATHER_API_KEY`: Your OpenWeather API key for fetching weather data.
+- `YOUR_API_KEY`: Your OpenWeather API key for fetching weather data.
 
