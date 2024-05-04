@@ -4,7 +4,7 @@
   "description": "Node.js application for retrieving weather conditions",
   "main": "weather.js",
   "scripts": {
-    "start": "node server.js",
+    "start": "node weather.js",
     "test": "jest"
   },
   "dependencies": {
