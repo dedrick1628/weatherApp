@@ -7,7 +7,7 @@ const { celsiusToFahrenheit } = require('./temperatureConverter');
 const app = express();
 const port = process.env.PORT || 8000;
 
-const OPENWEATHER_API_KEY = '2745c06fd02ddb53d569e790860a7ed8';
+const OPENWEATHER_API_KEY = 'YOUR_KEY';
 const OPENWEATHER_BASE_URL = 'http://api.openweathermap.org/data/2.5/weather';
 const KELVIN_TO_CELSIUS = 273; // Conversion from Kelvin to Celsius
 
